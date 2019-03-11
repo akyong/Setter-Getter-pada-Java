@@ -4,7 +4,8 @@
 2. Getter saat memunculkan data.
 
 
-Artikel https://github.com/akyong/ForEach---Mulitiple-List
+Artikel https://medium.com/@akyong/setter-dan-getter-pada-java-46820df13b3
+Github https://github.com/akyong/Setter-Getter-pada-Java
 
 
 <b>Author Akyong</b>
