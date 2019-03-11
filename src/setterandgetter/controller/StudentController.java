@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Project ini dibuat sebagai contoh dan hanya untuk memudahkan para pembaca dan 
+ * hanya sebagai bahan belajar. 
+ * 
  */
 package setterandgetter.controller;
 
@@ -13,7 +13,7 @@ import setterandgetter.domain.Student;
 
 /**
  *
- * @author admin
+ * @author akyong
  */
 public class StudentController {
     public void Create(){
